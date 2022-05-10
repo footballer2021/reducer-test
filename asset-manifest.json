@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reducer-test/static/css/main.073c9b0a.css",
+    "main.js": "/reducer-test/static/js/main.b4ed7ce5.js",
+    "index.html": "/reducer-test/index.html",
+    "main.073c9b0a.css.map": "/reducer-test/static/css/main.073c9b0a.css.map",
+    "main.b4ed7ce5.js.map": "/reducer-test/static/js/main.b4ed7ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b4ed7ce5.js"
+  ]
+}
